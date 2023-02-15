@@ -32,23 +32,47 @@
                 <div class="col-12">
                     <div class="card">
                         <div class="card-header">
-                            <h3 class="card-title">DataTable with default features</h3>
+                            <h3 class="card-title">Intro</h3>
                         </div>
                         <!-- /.card-header -->
                         <div class="card-body">
-
+                            <form action="" method="post">
+                                @csrf
+                                <div class="form-group">
+                                    <label for="">Intro</label>
+                                    <textarea type="text" name="intro" id="intro" class="form-control"
+                                        rows="4">GAS adalah aplikasi untuk memudahkan pelaku usaha menjangkau calon pembeli lebih luas. Melalui gerakan #AyoBelanjaTokoTetangga GAS mengajak untuk menjelajah dan mendukung usaha-usaha di sekitarmu.</textarea>
+                                </div>
+                                <div class="row">
+                                    @for($i=1; $i<=3; $i++) <div class="col-4">
+                                        <div class="card p-4">
+                                            <label for="">Pembeli</label>
+                                            <img src="{{ asset(" gas.id/") }}/files/images/gambar-driver_1616661412.png"
+                                                alt="" width="200px">
+                                            <p>
+                                            <ul class="dod_job">
+                                                <li>Tanpa biaya daftar</li>
+                                                <li> tinggal daftar.</li>
+                                                <li>Biaya ongkir jadi milik tokomu.</li>
+                                            </ul>
+                                            </p>
+                                        </div>
+                                </div>
+                                @endfor
                         </div>
-                        <!-- /.card-body -->
+                        </form>
                     </div>
-                    <!-- /.card -->
+                    <!-- /.card-body -->
                 </div>
-                <!-- /.col -->
+                <!-- /.card -->
             </div>
-            <!-- /.row -->
+            <!-- /.col -->
         </div>
-        <!-- /.container-fluid -->
-    </section>
-    <!-- /.content -->
+        <!-- /.row -->
+</div>
+<!-- /.container-fluid -->
+</section>
+<!-- /.content -->
 </div>
 
 @endsection

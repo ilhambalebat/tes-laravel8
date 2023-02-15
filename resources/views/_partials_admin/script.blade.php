@@ -18,10 +18,10 @@
 <!-- AdminLTE App -->
 <script src="{{ asset('adminlte') }}/dist/js/adminlte.min.js"></script>
 <!-- AdminLTE for demo purposes -->
-<script src="{{ asset('adminlte') }}/dist/js/demo.js"></script>
+{{-- <script src="{{ asset('adminlte') }}/dist/js/demo.js"></script> --}}
 <!-- Page specific script -->
 <script>
-    $(function () {
+  $(function () {
 $("#example1").DataTable({
   "responsive": true, "lengthChange": false, "autoWidth": false,
   "buttons": ["copy", "csv", "excel", "pdf", "print", "colvis"]

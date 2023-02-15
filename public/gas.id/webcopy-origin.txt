@@ -1,0 +1,292 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js
+File Name: C:\Downloaded Web Sites\gas.id\ajax\libs\materialize\1.0.0\js\materialize.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-1.11.0.min.js
+File Name: C:\Downloaded Web Sites\gas.id\jquery-1.11.0.min.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-migrate-1.2.1.min.js
+File Name: C:\Downloaded Web Sites\gas.id\jquery-migrate-1.2.1.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Open+Sans&display=swap
+File Name: C:\Downloaded Web Sites\gas.id\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+File Name: C:\Downloaded Web Sites\gas.id\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0C4n.ttf
+Content Type: font/ttf
+
+Uri: https://gas.id/
+File Name: C:\Downloaded Web Sites\gas.id\index.htm
+Content Type: text/html
+
+Uri: https://gas.id/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\gas.id\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/app_store.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\app_store.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/background_bottom.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\background_bottom.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/background_top.jpg
+File Name: C:\Downloaded Web Sites\gas.id\assets\background_top.jpg
+Content Type: image/jpeg
+
+Uri: https://gas.id/assets/bakcground_middle.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\bakcground_middle.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/icon_fcb.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\icon_fcb.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/icon_ing.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\icon_ing.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/loader.gif
+File Name: C:\Downloaded Web Sites\gas.id\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://gas.id/assets/play_store.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\play_store.png
+Content Type: image/png
+
+Uri: https://gas.id/assets/youtube-symbol.png
+File Name: C:\Downloaded Web Sites\gas.id\assets\youtube-symbol.png
+Content Type: image/png
+
+Uri: https://gas.id/css/style.css
+File Name: C:\Downloaded Web Sites\gas.id\css\style.css
+Content Type: text/css
+
+Uri: https://gas.id/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\gas.id\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://gas.id/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\gas.id\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/1_1_1616661557.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\1_1_1616661557.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/2_1_1616661674.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\2_1_1616661674.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/3_1_1616661694.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\3_1_1616661694.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/4_1_1616661707.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\4_1_1616661707.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/5_1_1616661724.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\5_1_1616661724.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/administration_1616663583.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\administration_1616663583.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/contentwriter_1616663403.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\contentwriter_1616663403.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/customerservice_1616663487.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\customerservice_1616663487.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/digitalmarketing_1616663371.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\digitalmarketing_1616663371.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/gambar-driver_1616661412.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\gambar-driver_1616661412.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/gambar-pembeli_1616661475.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\gambar-pembeli_1616661475.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/gambar-toko_1616661355.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\gambar-toko_1616661355.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/ilustration_top_1616732601.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\ilustration_top_1616732601.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/iosdeveloper_1616663544.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\iosdeveloper_1616663544.png
+Content Type: image/png
+
+Uri: https://gas.id/files/images/srvphp_1662943062.png
+File Name: C:\Downloaded Web Sites\gas.id\files\images\srvphp_1662943062.png
+Content Type: image/png
+
+Uri: https://gas.id/js/classie.js
+File Name: C:\Downloaded Web Sites\gas.id\js\classie.js
+Content Type: application/javascript
+
+Uri: https://gas.id/js/feedback.js
+File Name: C:\Downloaded Web Sites\gas.id\js\feedback.js
+Content Type: application/javascript
+
+Uri: https://gas.id/js/main-feature.js
+File Name: C:\Downloaded Web Sites\gas.id\js\main-feature.js
+Content Type: application/javascript
+
+Uri: https://gas.id/js/modernizr.custom.js
+File Name: C:\Downloaded Web Sites\gas.id\js\modernizr.custom.js
+Content Type: application/javascript
+
+Uri: https://gas.id/js/sidebarEffects.js
+File Name: C:\Downloaded Web Sites\gas.id\js\sidebarEffects.js
+Content Type: application/javascript
+
+Uri: https://gas.id/js/slick/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://gas.id/js/slick/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gas.id/js/slick/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://gas.id/js/slick/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://gas.id/js/slick/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\fonts\slick.ttf
+Content Type: font/ttf
+
+Uri: https://gas.id/js/slick/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\fonts\slick.woff
+Content Type: font/woff
+
+Uri: https://gas.id/js/slick/slick/slick-theme.css
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\slick-theme.css
+Content Type: text/css
+
+Uri: https://gas.id/js/slick/slick/slick.css
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\slick.css
+Content Type: text/css
+
+Uri: https://gas.id/js/slick/slick/slick.js
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://gas.id/js/slick/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\gas.id\js\slick\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://gas.id/privacy
+File Name: C:\Downloaded Web Sites\gas.id\privacy.html
+Content Type: text/html
+
+Uri: https://gas.id/site.webmanifest
+File Name: C:\Downloaded Web Sites\gas.id\site.webmanifest
+Content Type: 
+
+Uri: https://gas.id/terms
+File Name: C:\Downloaded Web Sites\gas.id\terms.html
+Content Type: text/html
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.css
+File Name: C:\Downloaded Web Sites\gas.id\aos@2.3.1\dist\aos.css
+Content Type: text/css
+
+Uri: https://unpkg.com/aos@2.3.1/dist/aos.js
+File Name: C:\Downloaded Web Sites\gas.id\aos@2.3.1\dist\aos.js
+Content Type: application/javascript
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/css/all.css
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\css\all.css
+Content Type: text/css
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://use.fontawesome.com/releases/v5.15.3/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\gas.id\releases\v5.15.3\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
